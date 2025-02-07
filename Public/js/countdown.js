@@ -1,5 +1,5 @@
 ﻿// Ngày mục tiêu
-const targetDate = new Date('2026-01-29T00:00:00+07:00'); // Giờ Việt Nam
+const targetDate = new Date('2026-02-17T00:00:00+07:00'); // Giờ Việt Nam
 
 function updateCountdown() {
     const now = new Date();
