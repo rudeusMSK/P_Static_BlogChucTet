@@ -7,8 +7,8 @@ function updateCountdown() {
 
     // Kiểm tra nếu thời gian đã hết
     if (timeDifference <= 0) {
-        document.getElementById("finishedMessage").textContent = "CHÚC MỪNG NĂM MỚI";
-       // document.getElementById("SecondMessage").textContent = "Chúc mọi người năm mới 2025 an khang thịnh vượng, sức khỏe, bình an và hạnh phúc luôn luôn bên bạn!";
+        document.getElementById("finishedMessage").textContent = "CHÚC MỪNG NĂM MỚI 2026";
+        document.getElementById("SecondMessage").textContent = "";
         document.getElementById("days").textContent = "0";
         document.getElementById("hours").textContent = "0";
         document.getElementById("minutes").textContent = "0";
